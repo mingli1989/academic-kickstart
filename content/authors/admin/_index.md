@@ -20,7 +20,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-
+education:
+ courses:
+ - course: Ph.D. in Economics and Finance
+   institution: Maastricht University
+   year: 2019 (expected)
+ - course: M.Sc. in Economic and Financial Research
+   institution: Maastricht University
+   year: 2016
+ - course: B.Sc. in Management
+   institution: Qingdao University
+   year: 2012
+ - course: B.Sc. in Finance
+   institution: Qingdao University
+   year: 2012
+   
 
 
 # Social/Academic Networking
