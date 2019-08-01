@@ -47,4 +47,5 @@ user_groups:
 ---
 
 I am currently a PhD candidate at Maastricht University, the Netherlands.
+
 My research interests include Economic Growth, Labor Economics, Applied Econometrics, Macroeconomics, and Productivity Analysis. My current research focuses on  how technological progress influences workforce dynamics and economic development. My promoters are  Prof. Dr.  Jaap Bos and Prof. Dr. Pierre Mohnen. 
