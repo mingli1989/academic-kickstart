@@ -56,7 +56,7 @@ education:
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 I am currently a PhD candidate at Maastricht University, the Netherlands.
 
