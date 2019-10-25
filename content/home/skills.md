@@ -16,8 +16,8 @@ subtitle = ""
 
 [[feature]]
   icon = "running"
-  icon_pack = "fab"
-  name = "Runing"
+  icon_pack = "fas"
+  name = "Running"
  
   
 [[feature]]
