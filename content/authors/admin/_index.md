@@ -24,7 +24,7 @@ education:
  courses:
  - course: Ph.D. in Economics and Finance
    institution: Maastricht University
-   year: 2019 (expected)
+   year: 2020 (expected)
  - course: M.Sc. in Economic and Financial Research
    institution: Maastricht University
    year: 2016
