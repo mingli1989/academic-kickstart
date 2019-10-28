@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 education:
  courses:
@@ -48,8 +48,8 @@ education:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)m.li@maastrichtuniversity.nl
+email: "m.li@maastrichtuniversity.nl"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
