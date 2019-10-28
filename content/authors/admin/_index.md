@@ -15,8 +15,9 @@ role: Ph.D. candidate
 # Organizations/Affiliations
 organizations:
 - name: Maastricht University
-  url: "m.li@maastrichtuniversity.nl"
-
+  url: ""
+  
+- email: "m.li@maastrichtuniversity.nl"
 # Short bio (displayed in user profile at end of posts)
 
 
@@ -49,7 +50,7 @@ organizations:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)m.li@maastrichtuniversity.nl
-email: "m.li@maastrichtuniversity.nl"
+
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
