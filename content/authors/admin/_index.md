@@ -20,20 +20,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 
-#education:
- courses:
- - course: Ph.D. in Economics and Finance
-   institution: Maastricht University
-   year: 2020 (expected)
- - course: M.Sc. in Economic and Financial Research
-   institution: Maastricht University
-   year: 2016
- - course: B.Sc. in Management
-   institution: Qingdao University
-   year: 2012
- - course: B.Sc. in Finance
-   institution: Qingdao University
-   year: 2012
+# education:
+# courses:
+# - course: Ph.D. in Economics and Finance
+#  institution: Maastricht University
+#  year: 2020 (expected)
+# - course: M.Sc. in Economic and Financial Research
+#   institution: Maastricht University
+#   year: 2016
+# - course: B.Sc. in Management
+#   institution: Qingdao University
+#   year: 2012
+# - course: B.Sc. in Finance
+#   institution: Qingdao University
+#   year: 2012
    
 
 
