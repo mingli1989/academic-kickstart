@@ -9,20 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Research"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Teaching"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "CV"
+  url = "https://www.dropbox.com/s/6xs1tunlbwe5crk/cv.pdf?dl=0"
   weight = 40
 
+[[main]]
+  name = "Chinese"
+  url = "#featured"
+  weight = 50
 [[main]]
   name = "Contact"
   url = "#contact"
