@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 
-education:
+#education:
  courses:
  - course: Ph.D. in Economics and Finance
    institution: Maastricht University
